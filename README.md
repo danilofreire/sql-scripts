@@ -1,9 +1,9 @@
 # Git Your SQL Together!
 
-This repository contains my personal SQL scripts. I'm a real beginner, so 
-while my scripts are probably too simple for others to use, but I thought it
-would be nice to have them in one place. I ~~stole~~ borrowed the idea (and the
-title) from a great [blog post by Caitlin
+This repository contains my personal SQL scripts. I'm a real beginner, so while
+my scripts are probably too simple for others to use, I thought it would be
+nice to have them in one place. I ~~stole~~ borrowed the idea (and the title)
+from a great [blog post by Caitlin
 Hudon](https://caitlinhudon.com/2018/11/28/git-sql-together/), which states
 three SQL Truths:
 
