@@ -14,7 +14,7 @@ three SQL Truths:
 I think she's absolutely right. Since I've been using git for quite some time,
 why not keep a repository with all my SQL code? It will save me precious time
 in the future (point #1), I can track all script changes (point #2), and if you
-like anything you see here, please go ahead and use it too. Again, if you
-already know SQL there isn't much for you to see here, but maybe my code can
-help a fellow beginner. Comments and suggestions are always very welcome!
+like anything you see here, please go ahead and use it too (point #3). Again,
+if you already know SQL there isn't much for you to see here, but maybe my code
+can help a fellow beginner. Comments and suggestions are always very welcome!
 :smiley:
